@@ -1,0 +1,45 @@
+{
+  "topics": [],
+  "queries": [
+    {
+      "query": "ufs application",
+      "value": 100
+    },
+    {
+      "query": "ufs blackboard",
+      "value": 95
+    },
+    {
+      "query": "ufs online application",
+      "value": 74
+    },
+    {
+      "query": "self service ufs",
+      "value": 59
+    },
+    {
+      "query": "ufs oracle",
+      "value": 48
+    },
+    {
+      "query": "ufs application 2027",
+      "value": 46
+    },
+    {
+      "query": "ufs login",
+      "value": 35
+    },
+    {
+      "query": "ufs online application 2027",
+      "value": 33
+    },
+    {
+      "query": "ufs prospectus",
+      "value": 27
+    },
+    {
+      "query": "ufs prospectus 2027",
+      "value": 24
+    }
+  ]
+}

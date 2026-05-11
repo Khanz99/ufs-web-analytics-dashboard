@@ -1,0 +1,14 @@
+[
+  {
+    "device": "desktop",
+    "percentage": 59.4
+  },
+  {
+    "device": "mobile",
+    "percentage": 39.9
+  },
+  {
+    "device": "tablet",
+    "percentage": 0.7
+  }
+]

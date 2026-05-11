@@ -1,0 +1,22 @@
+
+Trying keyword: UFS
+Warning: related_topics() failed: list index out of range
+Warning: related_queries() failed: The request failed: Google returned a response with code 429
+Keyword 'UFS' returned 0 topics and 0 queries
+
+Trying keyword: University of the Free State
+Warning: related_topics() failed: list index out of range
+Warning: related_queries() failed: The request failed: Google returned a response with code 429
+Keyword 'University of the Free State' returned 0 topics and 0 queries
+
+Trying keyword: Kovsies
+Warning: related_topics() failed: list index out of range
+Warning: related_queries() failed: The request failed: Google returned a response with code 429
+Keyword 'Kovsies' returned 0 topics and 0 queries
+
+Trying keyword: UFS online application
+Warning: related_topics() failed: list index out of range
+Warning: related_queries() failed: The request failed: Google returned a response with code 429
+Keyword 'UFS online application' returned 0 topics and 0 queries
+No usable Google Trends data returned for any fallback keyword.
+Google Trends data written to: C:\Users\MashibineKR\Desktop\UFS-Web-Analytics-dashboard\data\google_trends.json

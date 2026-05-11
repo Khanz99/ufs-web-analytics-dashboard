@@ -1,0 +1,787 @@
+{
+  "keyword": "University of the Free State",
+  "geo": "ZA",
+  "timeframe": "now 7-d",
+  "related_queries": [
+    {
+      "rank": 1,
+      "query": "university of free state online application",
+      "value": "100"
+    },
+    {
+      "rank": 2,
+      "query": "university of the free state online application",
+      "value": "100"
+    },
+    {
+      "rank": 3,
+      "query": "ufs",
+      "value": "66"
+    },
+    {
+      "rank": 4,
+      "query": "university of free state online application 2027",
+      "value": "48"
+    },
+    {
+      "rank": 5,
+      "query": "university of pretoria",
+      "value": "40"
+    },
+    {
+      "rank": 6,
+      "query": "university of the free state vacancies",
+      "value": "38"
+    },
+    {
+      "rank": 7,
+      "query": "nelson mandela university",
+      "value": "35"
+    },
+    {
+      "rank": 8,
+      "query": "university of fort hare",
+      "value": "33"
+    },
+    {
+      "rank": 9,
+      "query": "university of johannesburg",
+      "value": "26"
+    },
+    {
+      "rank": 10,
+      "query": "university of limpopo",
+      "value": "26"
+    }
+  ],
+  "related_topics": [
+    {
+      "rank": 1,
+      "topic": "Free State - Province",
+      "value": "100"
+    },
+    {
+      "rank": 2,
+      "topic": "University of the Free State - Public university in Bloemfontein, South Africa",
+      "value": "95"
+    },
+    {
+      "rank": 3,
+      "topic": "University - School category",
+      "value": "79"
+    },
+    {
+      "rank": 4,
+      "topic": "2027 - Topic",
+      "value": "12"
+    },
+    {
+      "rank": 5,
+      "topic": "University of Johannesburg men's basketball - Basketball team",
+      "value": "7"
+    },
+    {
+      "rank": 6,
+      "topic": "University of Johannesburg - Topic",
+      "value": "6"
+    },
+    {
+      "rank": 7,
+      "topic": "University of the Western Cape - Public university in Cape Town, South Africa",
+      "value": "5"
+    },
+    {
+      "rank": 8,
+      "topic": "Course - Education",
+      "value": "5"
+    },
+    {
+      "rank": 9,
+      "topic": "Science - Discipline",
+      "value": "5"
+    },
+    {
+      "rank": 10,
+      "topic": "North-West University - Public university in Potchefstroom, South Africa",
+      "value": "5"
+    }
+  ],
+  "interest_over_time": [
+    {
+      "date": "Apr 28, 2026 at 10:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 28, 2026 at 11:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 28, 2026 at 12:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 28, 2026 at 1:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 28, 2026 at 2:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 28, 2026 at 3:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 28, 2026 at 4:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 28, 2026 at 5:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 28, 2026 at 6:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 28, 2026 at 7:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 28, 2026 at 8:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 28, 2026 at 9:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 28, 2026 at 10:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 28, 2026 at 11:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 12:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 1:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 2:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 3:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 4:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 5:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 6:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 7:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 8:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 9:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 10:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 11:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 12:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 1:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 2:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 3:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 4:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 5:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 6:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 7:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 8:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 9:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 10:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 29, 2026 at 11:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 12:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 1:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 2:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 3:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 4:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 5:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 6:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 7:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 8:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 9:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 10:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 11:00 AM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 12:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 1:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 2:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 3:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 4:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 5:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 6:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 7:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 8:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 9:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 10:00 PM",
+      "value": 0
+    },
+    {
+      "date": "Apr 30, 2026 at 11:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 12:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 1:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 2:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 3:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 4:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 5:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 6:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 7:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 8:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 9:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 10:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 11:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 12:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 1:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 2:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 3:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 4:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 5:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 6:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 7:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 8:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 9:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 10:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 1, 2026 at 11:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 12:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 1:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 2:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 3:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 4:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 5:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 6:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 7:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 8:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 9:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 10:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 11:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 12:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 1:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 2:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 3:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 4:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 5:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 6:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 7:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 8:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 9:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 10:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 2, 2026 at 11:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 12:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 1:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 2:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 3:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 4:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 5:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 6:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 7:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 8:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 9:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 10:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 11:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 12:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 1:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 2:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 3:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 4:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 5:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 6:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 7:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 8:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 9:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 10:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 3, 2026 at 11:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 12:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 1:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 2:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 3:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 4:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 5:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 6:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 7:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 8:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 9:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 10:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 11:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 12:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 1:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 2:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 3:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 4:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 5:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 6:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 7:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 8:00 PM",
+      "value": 76
+    },
+    {
+      "date": "May 4, 2026 at 9:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 10:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 4, 2026 at 11:00 PM",
+      "value": 0
+    },
+    {
+      "date": "May 5, 2026 at 12:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 5, 2026 at 1:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 5, 2026 at 2:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 5, 2026 at 3:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 5, 2026 at 4:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 5, 2026 at 5:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 5, 2026 at 6:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 5, 2026 at 7:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 5, 2026 at 8:00 AM",
+      "value": 0
+    },
+    {
+      "date": "May 5, 2026 at 9:00 AM",
+      "value": 100
+    },
+    {
+      "date": "May 5, 2026 at 10:00 AM",
+      "value": 0
+    }
+  ]
+}

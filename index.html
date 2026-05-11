@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>UFS Web Analytics Dashboard</title>
+
+  <link rel="stylesheet" href="CSS/style.css" />
+
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+
+  <div class="dashboard-container report-layout">
+
+    <!-- Header -->
+    <header class="dashboard-header report-header">
+
+      <div class="header-left">
+
+        <!-- UFS Logo -->
+        <img
+          src="assets/logos/ufs-logo-clean.svg"
+          alt="UFS Logo"
+          class="ufs-logo"
+        />
+
+        <!-- Title + Reporting Period -->
+        <div class="header-text">
+          <h1>UFS Web Analytics Dashboard</h1>
+          <p id="report-period">Reporting period: Loading...</p>
+        </div>
+
+      </div>
+
+      <!-- Refresh Button -->
+      <div class="header-right">
+        <button id="refreshDataBtn" class="refresh-btn">
+  Refresh Data
+</button>
+      </div>
+
+    </header>
+
+    <!-- Top Report Row -->
+    <section class="report-performance-card card">
+
+      <div class="performance-summary">
+
+        <h2>Website performance</h2>
+
+        <p>
+          <strong id="users">0</strong>
+          users accessed the UFS website
+        </p>
+
+        <p>
+          <strong id="page-views">0</strong>
+          page views
+        </p>
+
+        <p>
+          Average time spent on the website:
+          <strong id="avg-engagement-time">00:00:00</strong>
+        </p>
+
+        <p>
+          <strong id="new-users-percent">0%</strong>
+          were new visitors, while
+          <strong id="returning-users-percent">0%</strong>
+          were returning visitors
+        </p>
+
+      </div>
+
+      <div class="performance-chart">
+        <canvas id="dailyTrafficChart"></canvas>
+      </div>
+
+    </section>
+
+    <!-- Main Dashboard Grid -->
+    <section class="report-main-grid">
+
+      <!-- Device Panel -->
+      <div class="card report-panel device-panel">
+        <h2>Web session by device</h2>
+        <canvas id="deviceChart"></canvas>
+      </div>
+
+      <!-- Centre Panel -->
+      <div class="card report-panel centre-panel">
+
+        <h2>Top web stories visited</h2>
+
+        <ul id="top-web-stories-list" class="report-list">
+          <li>Loading...</li>
+        </ul>
+
+        <h2 class="trends-heading">
+          Google Search Trends – Related Topics and Queries (Top)
+        </h2>
+
+        <div class="table-wrapper">
+
+          <table class="combined-trends-table">
+
+            <thead>
+              <tr>
+                <th>TOPICS</th>
+                <th>QUERIES</th>
+              </tr>
+            </thead>
+
+            <tbody id="combined-trends-body">
+              <tr>
+                <td colspan="2">Loading...</td>
+              </tr>
+            </tbody>
+
+          </table>
+
+        </div>
+
+      </div>
+
+      <!-- Pages Panel -->
+      <div class="card report-panel pages-panel">
+
+        <h2>Top pages visited</h2>
+
+        <ul id="top-pages-list" class="report-list">
+          <li>Loading...</li>
+        </ul>
+
+      </div>
+
+    </section>
+
+  </div>
+
+  <script src="JS/app.js"></script>
+
+</body>
+
+</html>
